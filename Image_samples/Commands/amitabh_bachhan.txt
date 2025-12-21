@@ -1,0 +1,1 @@
+java img_asci "C:\<path_name>\amitabh_bachhan.jpg" 90 500
