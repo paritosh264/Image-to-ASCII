@@ -3,8 +3,10 @@
 
 ## 📌 Description
 ### This is a fun project coded in java which turns an image into ascii art🖼️, the project has been coded from scratch exploring the mathematics 📐and exact concept of how pixels turn into ascii values or characters .
-### The project also explores the low level ![CodingGIF](https://github.com/user-attachments/assets/b092bd5d-e0f3-430e-b327-397845a349a2)
-requirements such as bitwise shifts etc.
+### The project also explores the low level requirements such as bitwise shifts etc.
+
+![CodingGIF](https://github.com/user-attachments/assets/b092bd5d-e0f3-430e-b327-397845a349a2)
+
 
 ## ✨ Features
 - Converts images to colored ascii text
