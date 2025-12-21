@@ -2,7 +2,7 @@
 
 ## 📌 Description
 ### This is a fun project coded in java which turns an image into ascii art🖼️, the project has been coded from scratch exploring the mathematics 📐and exact concept of how pixels turn into ascii values or characters .
-## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## ++++++++++++++++++++++++++++
 ### the project also explores the low level requirements such as bitwise shifts etc.
 
 ## ✨ Features
@@ -12,7 +12,7 @@
 ## ⚙️ Tech Used
 - Java
 - java AWT
-- java ImageIO
+- javax ImageIO
 
 
 ## ▶️ How to Run
