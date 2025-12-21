@@ -23,4 +23,4 @@ java img_asci <string imagepath> <integer brightness in output image > <integer 
 ```
 ## Example
 ### javac img_asci.java
-java img_asci "c/path to image" 30 90
+### java img_asci "c/path to image" 30 90
