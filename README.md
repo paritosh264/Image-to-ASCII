@@ -24,6 +24,7 @@
 
 ## ▶️ How to Run
 ```bash
+git clone https://github.com/paritosh264/Image-to-ASCII
 javac img_asci.java
 java img_asci -h(for help menu)
 java img_asci <string imagepath> <integer brightness in output image > <integer console width ususally 90-100 but the greater the number bigger the image>
