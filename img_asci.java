@@ -100,4 +100,8 @@ class utility {
         // index = Math.max(0, Math.min(index, asc.length - 1)); // clamp index
        System.out.print(String.format("\u001B[38;2;%d;%d;%dm%c\u001B[0m", r, g, b, asc[index])) ;// use print, not println
     }
+    public void banner(){
+System.out.println("")
+    }
+    
 }
